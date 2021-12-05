@@ -4,6 +4,6 @@ This series of exercices are samples of basic knowledge I acquired over the last
 
 These exercices contain exercices about variables and control flows.
 
-Exercice 10 is probably the most substantial, especially the version 
+Exercice 10 is probably the most substantial, especially the "v2-Vector-Erasing-Version". 
 
 
